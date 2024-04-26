@@ -10,9 +10,6 @@ warnings.filterwarnings("ignore")
 from datetime import datetime
 
 api_key = os.environ.get('GROQ_API_KEY')
-#api_key = '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'
-
-
 
 def chat_response(query):
     """
