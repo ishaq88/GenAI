@@ -1,5 +1,7 @@
 # CineSage 
 
+**[Check out the YouTube demo](https://www.youtube.com/watch?v=1jrV8hUSKtI)
+
 **Tech Stack: Langchain | ChromaDB | GroqAI | Llama | Streamlit**
 ****
 **Have you ever been bursting with excitement after watching a fantastic movie or show, eager to discuss every detail and reference with someone who understands? But your friends and family just don't share your passion for cinema and are left scratching their heads at your enthusiastic ramblings?**
