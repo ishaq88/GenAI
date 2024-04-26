@@ -1,6 +1,6 @@
 # CineSage 
 
-**[Check out the YouTube demo](https://www.youtube.com/watch?v=1jrV8hUSKtI)
+**[Check out the YouTube demo](https://www.youtube.com/watch?v=1jrV8hUSKtI)**
 
 **Tech Stack: Langchain | ChromaDB | GroqAI | Llama | Streamlit**
 ****
